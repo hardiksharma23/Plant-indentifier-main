@@ -1,0 +1,25 @@
+/flask_session
+/__pycache__
+/uploads
+ayurveda_users.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Flask session files
+flask_session/
+
+# Uploads folder
+uploads/
+
+# Database
+*.db
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
